@@ -1,0 +1,14 @@
+{
+  "oauth2PermissionScopes": [
+    {
+      "adminConsentDescription": "Allow APIM to access the Hello World API",
+      "adminConsentDisplayName": "Access Hello World API",
+      "id": "5B4D0E23-DB2B-4781-BE0D-8F3D8D1C7C2C",
+      "isEnabled": true,
+      "type": "Admin",
+      "userConsentDescription": "Allow APIM to access the Hello World API on your behalf",
+      "userConsentDisplayName": "Access Hello World API",
+      "value": "API.Access"
+    }
+  ]
+}
